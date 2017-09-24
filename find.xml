@@ -6,16 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
       <mask>java</mask>
       <mask>*.jav</mask>
       <mask>*C.java</mask>
@@ -33,6 +23,19 @@
       <mask>*.</mask>
       <mask>*.ts</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pa</mask>
+      <mask>pa'c</mask>
+      <mask>pack</mask>
+      <mask>packa</mask>
+      <mask>package</mask>
+      <mask>l</mask>
+      <mask>.</mask>
+      <mask>.jjso</mask>
+      <mask>.jjs</mask>
+      <mask>.jj</mask>
+      <mask>.j</mask>
+      <mask>.json</mask>
     </recentFileMasks>
   </component>
 </application>
