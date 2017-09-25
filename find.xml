@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Control.java</mask>
-      <mask>*Controll.java</mask>
-      <mask>*ControllerT.java</mask>
-      <mask>*ControllerTe.java</mask>
-      <mask>*ControllerTes.java</mask>
       <mask>*ControllerTest.java</mask>
       <mask>*Controller.java</mask>
       <mask>*.ts</mask>
@@ -29,12 +24,17 @@
       <mask>.j</mask>
       <mask>.json</mask>
       <mask>*。</mask>
-      <mask>*</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
