@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Contro.java</mask>
       <mask>*Control.java</mask>
       <mask>*Controll.java</mask>
       <mask>*ControllerT.java</mask>
@@ -15,9 +14,7 @@
       <mask>*ControllerTes.java</mask>
       <mask>*ControllerTest.java</mask>
       <mask>*Controller.java</mask>
-      <mask>*.j</mask>
       <mask>*.ts</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pa</mask>
       <mask>pa'c</mask>
@@ -33,10 +30,13 @@
       <mask>.json</mask>
       <mask>*。</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
