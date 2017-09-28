@@ -1,0 +1,12 @@
+<templateSet group="Stream">
+  <template name=".join" value=".collect(Collectors.joining(&quot;$END$&quot;))&#10;" description=".collect(Collectors.joining(&quot;$END$&quot;))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name=".groupBy" value="// Abbreviation: .groupBy&#10;.collect(Collectors.groupingBy(e -&gt; $END$))" description=".collect(Collectors.groupingBy(e -&gt; $END$))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
