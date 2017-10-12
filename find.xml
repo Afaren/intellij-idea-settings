@@ -29,13 +29,13 @@
       <mask>*jav</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*.ja</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
