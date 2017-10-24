@@ -26,7 +26,6 @@
       <mask>*ja</mask>
       <mask>*j</mask>
       <mask>*</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
@@ -36,6 +35,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
