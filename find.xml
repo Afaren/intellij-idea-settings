@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Controller.java</mask>
-      <mask>p</mask>
-      <mask>pa</mask>
-      <mask>pa'c</mask>
       <mask>pack</mask>
       <mask>packa</mask>
       <mask>package</mask>
@@ -26,16 +23,20 @@
       <mask>*ja</mask>
       <mask>*j</mask>
       <mask>*</mask>
-      <mask>*.t</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
+      <mask>*.ja</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.nava</mask>
+      <mask>*.nav</mask>
+      <mask>*.na</mask>
+      <mask>*.n</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
