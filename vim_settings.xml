@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/entity/SalesConsultant.java" timestamp="1505742782389">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/detail/orderDetailRightTitle.js" timestamp="1509451309283" />
+      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/detail/orderDetailRightTitle.js" timestamp="1509454950621" />
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/service/UserService.java" timestamp="1503910586130">
         <mark key="[" line="642" column="20" />
         <mark key="]" line="166" column="27" />
@@ -48,8 +48,8 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" timestamp="1509451019264">
-        <mark key="'" line="699" column="0" />
+      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" timestamp="1509455074156">
+        <mark key="'" line="616" column="10" />
         <mark key="." line="226" column="421" />
       </file>
       <file name="$USER_HOME$/workspace/todo/emacs-learn.org" timestamp="1502428524897">
@@ -83,6 +83,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
       <jump line="811" column="0" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
       <jump line="699" column="0" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
+      <jump line="616" column="10" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
