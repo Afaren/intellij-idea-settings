@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1509451270593">
@@ -30,6 +30,9 @@
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/entity/SalesConsultant.java" timestamp="1505742782389">
         <mark key="'" line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/otr/mobile/app/selectors/order.js" timestamp="1509455593481">
+        <mark key="'" line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/detail/orderDetailRightTitle.js" timestamp="1509454950621" />
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/service/UserService.java" timestamp="1503910586130">
         <mark key="[" line="642" column="20" />
@@ -48,12 +51,17 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" timestamp="1509455074156">
-        <mark key="'" line="616" column="10" />
-        <mark key="." line="226" column="421" />
+      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" timestamp="1509456231131">
+        <mark key="'" line="339" column="49" />
+        <mark key="[" line="650" column="27" />
+        <mark key="]" line="650" column="20" />
+        <mark key="." line="650" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/todo/emacs-learn.org" timestamp="1502428524897">
         <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/quotation/quotation.js" timestamp="1509455436018">
+        <mark key="'" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/otr/gems-integration/gems-integration-service/src/test/java/com/daimler/otr/gems/fixture/UserDtoFixture.java" timestamp="1505977635823">
         <mark key="[" line="7" column="0" />
@@ -84,16 +92,20 @@
       <jump line="811" column="0" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
       <jump line="699" column="0" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
       <jump line="616" column="10" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
+      <jump line="411" column="44" filename="$USER_HOME$/workspace/otr/mobile/app/containers/quotation/quotation.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/workspace/otr/mobile/app/containers/quotation/quotation.js" />
+      <jump line="339" column="49" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/otr/mobile/app/selectors/order.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orderEdit</text>
+        <text>outlet</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>outlet</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>gscodepan</text>
       </register>
       <register name="0" type="4">
         <text>orderEdit</text>
@@ -135,9 +147,9 @@ put(OrderSearchType.SC_NAME, scNameMatcher);</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>gscodepan</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>gscodepan</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -145,6 +157,8 @@ put(OrderSearchType.SC_NAME, scNameMatcher);</text>
       <history-search>
         <entry>database</entry>
         <entry>get</entry>
+        <entry>gscode</entry>
+        <entry>gscodepan</entry>
       </history-search>
       <history-cmd>
         <entry>748</entry>
