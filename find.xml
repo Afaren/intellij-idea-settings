@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>.jjso</mask>
       <mask>.jjs</mask>
@@ -19,22 +19,22 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.ja</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.nava</mask>
       <mask>*.nav</mask>
       <mask>*.na</mask>
       <mask>*.n</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.TS</mask>
       <mask>*.T</mask>
       <mask>*.JS</mask>
       <mask>*.J</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
