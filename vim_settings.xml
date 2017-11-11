@@ -27,13 +27,15 @@
         <mark key="^" line="344" column="91" />
         <mark key="." line="344" column="91" />
       </file>
+      <file name="/a.dummy" timestamp="1510391365853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/entity/SalesConsultant.java" timestamp="1505742782389">
         <mark key="'" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/otr/mobile/app/selectors/order.js" timestamp="1509455593481">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/detail/orderDetailRightTitle.js" timestamp="1509454950621" />
       <file name="$USER_HOME$/workspace/otr/docker-dev/dev/account-management/account-management-service/src/main/java/com/daimler/otr/service/UserService.java" timestamp="1503910586130">
         <mark key="[" line="642" column="20" />
         <mark key="]" line="166" column="27" />
@@ -51,6 +53,11 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/book-history/jieba.py" timestamp="1510391341051">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" timestamp="1509456231131">
         <mark key="'" line="339" column="49" />
         <mark key="[" line="650" column="27" />
@@ -63,11 +70,20 @@
       <file name="$USER_HOME$/workspace/otr/mobile/app/containers/quotation/quotation.js" timestamp="1509455436018">
         <mark key="'" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/book-history/cut.txt" timestamp="1510391603562">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/otr/gems-integration/gems-integration-service/src/test/java/com/daimler/otr/gems/fixture/UserDtoFixture.java" timestamp="1505977635823">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/book-history/cutText.py" timestamp="1510391746327">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -96,13 +112,14 @@
       <jump line="14" column="2" filename="$USER_HOME$/workspace/otr/mobile/app/containers/quotation/quotation.js" />
       <jump line="339" column="49" filename="$USER_HOME$/workspace/otr/mobile/app/containers/order/edit/edit.js" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/otr/mobile/app/selectors/order.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/book-history/cut.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>outlet</text>
+        <text>cutText</text>
       </register>
       <register name="-" type="4">
-        <text>outlet</text>
+        <text>cutText</text>
       </register>
       <register name="/" type="4">
         <text>gscodepan</text>
@@ -111,36 +128,36 @@
         <text>orderEdit</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYXNzaWduTXVsdGlTZWxlY3RUaXRsZSBmcm9tICcuL2NvbnRhaW5lcnMvcmVhc3NpZ24vY29tcG9uZW50cy9yZWFzc2lnbk11bHRpU2VsZWN0VGl0bGUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">Zm9yIHdvcmQgaW4gd29yZHM6CiAgICBpZiBsZW4od29yZCk+MToKICAgICAgICBhLmFwcGVuZCh3b3JkKQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgX19uYW1lX189PSdfX21haW5fXyc6CiAgICBtYWluKCkKCg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYXNzaWduTXVsdGlTZWxlY3RUaXRsZSBmcm9tICcuL2NvbnRhaW5lcnMvcmVhc3NpZ24vY29tcG9uZW50cy9yZWFzc2lnbk11bHRpU2VsZWN0VGl0bGUnOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBtYXAuCiAgICAgICAgbWFwLgogICAgICAgIG1hcC4KICAgICAgICBtYXAuCiAgICAgICAgbWFwLgogICAgICAgIG1hcC4KICAgICAgICByZXR1cm4gbWFwOwog</text>
       </register>
-      <register name="3" type="8">
+      <register name="9" type="8">
         <text>put(OrderSearchType.COMMISSION_NO, commissionNoMatcher);
 put(OrderSearchType.VIN, vinMatcher);
 put(OrderSearchType.VEHICLE_TYPE, vehicleTypeMatcher);
 put(OrderSearchType.ORDER_ID, orderIdMatcher);
 put(OrderSearchType.INVOICE_NAME, invoiceNameMatcher);
 put(OrderSearchType.SC_NAME, scNameMatcher);</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc19kY21fYWRkX2NtX3VzZXIoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUm9sZUNvZGUuQ09ORklHVVJFX01BTkFHRVIudmFsdWUoKS5lcXVhbHMoc2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlcigpLmdldFJvbGVDb2RlKCkpZXF1YWxzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>748</text>
