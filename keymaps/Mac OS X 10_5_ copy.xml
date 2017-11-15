@@ -2,6 +2,7 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
@@ -18,6 +19,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
