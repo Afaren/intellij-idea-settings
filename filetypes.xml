@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="empty_book_list" type="PLAIN_TEXT" />
-      <mapping pattern="history_tag_list" type="PLAIN_TEXT" />
-      <mapping pattern="tags_Tue" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
