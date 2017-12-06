@@ -1,7 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log($END$);" description="insert console.log() expression" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
+  <template name="ref" value="///&lt;reference path='$PATH$'/&gt;&#10;$END$" description="Inserts reference path comment" toReformat="true" toShortenFQNames="false">
+    <variable name="PATH" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
   </template>
 </templateSet>
