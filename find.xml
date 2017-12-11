@@ -5,14 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.TS" />
     <recentFileMasks>
       <mask>*j</mask>
       <mask>*.nava</mask>
       <mask>*.nav</mask>
       <mask>*.na</mask>
       <mask>*.n</mask>
-      <mask>*.TS</mask>
       <mask>*.T</mask>
       <mask>*.JS</mask>
       <mask>*.J</mask>
@@ -37,6 +36,7 @@
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.TS</mask>
     </recentFileMasks>
   </component>
 </application>
