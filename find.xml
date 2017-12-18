@@ -1,17 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*j</mask>
-      <mask>*.nava</mask>
       <mask>*.nav</mask>
       <mask>*.na</mask>
       <mask>*.n</mask>
-      <mask>*.T</mask>
       <mask>*.JS</mask>
       <mask>*.J</mask>
       <mask>*.j's</mask>
@@ -26,16 +21,19 @@
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
-      <mask>*</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.TS</mask>
+      <mask>*.T</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
