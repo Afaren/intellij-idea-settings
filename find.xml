@@ -6,14 +6,9 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jaa</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.TS</mask>
       <mask>*.T</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*J</mask>
       <mask>*JA</mask>
@@ -28,14 +23,19 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.js</mask>
-      <mask>*.s</mask>
       <mask>*.sql</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
