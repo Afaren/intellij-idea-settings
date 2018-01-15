@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*J</mask>
       <mask>*JA</mask>
       <mask>*JAV</mask>
       <mask>*JAVA</mask>
@@ -16,24 +16,25 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.sql</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>jav</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
