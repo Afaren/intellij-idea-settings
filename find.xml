@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>buil</mask>
-      <mask>build</mask>
       <mask>.g</mask>
       <mask>.gr</mask>
       <mask>.gra</mask>
@@ -28,13 +26,15 @@
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.ts]</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
