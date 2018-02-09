@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>.grad</mask>
       <mask>.gradle</mask>
@@ -22,19 +21,19 @@
       <mask>*.yml</mask>
       <mask>*.js</mask>
       <mask>*.ts]</mask>
-      <mask>*.t</mask>
       <mask>*.t's</mask>
-      <mask>*.ts</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>jaa</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jaa</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
