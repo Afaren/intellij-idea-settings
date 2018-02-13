@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>s</mask>
       <mask>sql</mask>
@@ -27,7 +28,6 @@
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -36,6 +36,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
