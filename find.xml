@@ -23,19 +23,19 @@
       <mask>j</mask>
       <mask>ja</mask>
       <mask>jaa</mask>
-      <mask>*.jaa</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.jaa</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
