@@ -7,12 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>jav</mask>
-      <mask>java</mask>
-      <mask>y</mask>
-      <mask>ym</mask>
       <mask>yml</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
@@ -34,10 +30,15 @@
       <mask>*.java</mask>
       <mask>*.javat</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.s'c</mask>
+      <mask>*.s'c's</mask>
+      <mask>*.s'c's's</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
