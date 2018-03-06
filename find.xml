@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>j</mask>
-      <mask>ja</mask>
       <mask>jaa</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -17,13 +16,10 @@
       <mask>*.js</mask>
       <mask>*.t's</mask>
       <mask>*.javat</mask>
-      <mask>*</mask>
       <mask>*.tw</mask>
-      <mask>*.s</mask>
       <mask>*.s'c</mask>
       <mask>*.s'c's</mask>
       <mask>*.s'c's's</mask>
-      <mask>*.scss</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.j</mask>
@@ -32,10 +28,15 @@
       <mask>*.java</mask>
       <mask>*.TS</mask>
       <mask>*.T</mask>
-      <mask>*.</mask>
       <mask>*.JA</mask>
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
