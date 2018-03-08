@@ -12,7 +12,6 @@
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.jaa</mask>
-      <mask>*.js</mask>
       <mask>*.t's</mask>
       <mask>*.javat</mask>
       <mask>*.tw</mask>
@@ -31,11 +30,12 @@
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
