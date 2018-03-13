@@ -26,18 +26,18 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.TS</mask>
-      <mask>*.T</mask>
       <mask>*.JA</mask>
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.T</mask>
+      <mask>*.TS</mask>
     </recentFileMasks>
   </component>
 </application>
