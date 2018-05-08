@@ -9,8 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.jaa</mask>
       <mask>*.t's</mask>
@@ -31,15 +31,16 @@
       <mask>*.TS</mask>
       <mask>*.T</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.j's</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
