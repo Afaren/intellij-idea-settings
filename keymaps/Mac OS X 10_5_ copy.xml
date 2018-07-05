@@ -5,6 +5,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta f4" />
+  </action>
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -60,6 +63,9 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift alt f4" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
