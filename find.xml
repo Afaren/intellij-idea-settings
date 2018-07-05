@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.t</mask>
       <mask>*.JA</mask>
@@ -12,10 +13,7 @@
       <mask>*.TS</mask>
       <mask>*.T</mask>
       <mask>*.jsp</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
       <mask>*.j's</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
@@ -29,11 +27,14 @@
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
