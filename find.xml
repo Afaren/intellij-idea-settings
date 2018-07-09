@@ -6,9 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.TS</mask>
-      <mask>*.T</mask>
       <mask>*.jsp</mask>
       <mask>*.j's</mask>
       <mask>*.sc</mask>
@@ -33,9 +30,12 @@
       <mask>*.r</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
