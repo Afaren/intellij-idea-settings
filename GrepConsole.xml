@@ -33,6 +33,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -43,6 +49,12 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-256" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-997772" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -116,5 +128,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
