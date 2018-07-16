@@ -24,12 +24,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
+                              <option name="color" value="-12742401" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
