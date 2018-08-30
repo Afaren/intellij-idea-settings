@@ -64,6 +64,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="Exit" />
   <action id="OpenProjectWindows">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
