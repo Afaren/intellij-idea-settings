@@ -1,0 +1,16 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="atc@userDefined" key=".atc" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="assertThatCode($EXPR$)&#10;   .doesNotThrowAnyException();" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="at@userDefined" key=".at" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="assertThat($EXPR$)$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="att@userDefined" key=".att" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="assertThatThrownBy($EXPR$)&#10;    $END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
