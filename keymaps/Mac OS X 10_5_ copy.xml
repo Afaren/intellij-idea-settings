@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="shift meta comma" />
     <keyboard-shortcut first-keystroke="meta q" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -94,6 +95,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="ViewSource" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
