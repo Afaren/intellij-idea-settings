@@ -7,6 +7,7 @@
       <mapping pattern="tags_Tue" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="empty_book_list" type="PLAIN_TEXT" />
+      <mapping ext="yml-template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
