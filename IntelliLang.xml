@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>JdbcCursorItemReader.setSql (org.springframework.batch.item.database)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.JdbcCursorItemReader"))]]></place>
+    </injection>
+  </component>
+</application>
