@@ -4,13 +4,14 @@
     <property name="created">2017-08-22T10:08:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-10-15T20:32:25</property>
+    <property name="modified">2019-01-24T11:27:33</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="3d90ff" />
     <option name="CARET_COLOR" value="bb100c" />
     <option name="CARET_ROW_COLOR" value="174f04" />
     <option name="FILESTATUS_ADDED" value="a7700" />
@@ -37,6 +38,8 @@
     <option name="FILESTATUS_addedOutside" value="eaa00" />
     <option name="FILESTATUS_changelistConflict" value="ff0000" />
     <option name="FILESTATUS_modifiedOutside" value="47e4" />
+    <option name="MODIFIED_LINES_COLOR" value="ff0000" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3dd50b" />
   </colors>
   <attributes>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
