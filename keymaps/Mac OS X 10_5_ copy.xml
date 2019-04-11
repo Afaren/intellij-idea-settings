@@ -74,9 +74,11 @@
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="Exit" />
+  <action id="Kotlin.RunScratch" />
   <action id="KotlinShellExecute" />
   <action id="OpenProjectWindows">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
+    <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift alt f4" />
