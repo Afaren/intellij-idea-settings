@@ -72,6 +72,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Exit" />
   <action id="Kotlin.RunScratch" />
