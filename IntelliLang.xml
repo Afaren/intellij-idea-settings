@@ -17,5 +17,9 @@
       <display-name>JdbcCursorItemReader.setSql (org.springframework.batch.item.database)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.JdbcCursorItemReader"))]]></place>
     </injection>
+    <injection language="XML" injector-id="java">
+      <display-name>XMLExportVisitor.visitDot (refactoring_guru.visitor.example.shapes)</display-name>
+      <place><![CDATA[psiMethod().withName("visitDot").withParameters("refactoring_guru.visitor.example.shapes.Dot").definedInClass("refactoring_guru.visitor.example.shapes.XMLExportVisitor")]]></place>
+    </injection>
   </component>
 </application>
