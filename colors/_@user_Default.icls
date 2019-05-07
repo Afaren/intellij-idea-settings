@@ -3,12 +3,21 @@
     <property name="created">2018-07-05T18:46:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-07-05T19:08:18</property>
+    <property name="modified">2019-05-07T16:34:23</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="86de37" />
+    <option name="CARET_ROW_COLOR" value="d5ff36" />
+    <option name="DELETED_LINES_COLOR" value="fdfa32" />
+    <option name="MODIFIED_LINES_COLOR" value="e82e18" />
+  </colors>
   <attributes>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>
