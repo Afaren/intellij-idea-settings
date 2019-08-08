@@ -77,6 +77,9 @@
   <action id="Exit" />
   <action id="Kotlin.RunScratch" />
   <action id="KotlinShellExecute" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="OpenProjectWindows">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
     <keyboard-shortcut first-keystroke="meta alt w" />
