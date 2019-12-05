@@ -19,7 +19,7 @@
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
-        <entry key="EditorBasics.Selection" value="NOT_PASSED" />
+        <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="PASSED" />
@@ -87,6 +87,22 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="25806" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.CommentLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1575526549380" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="29485" />
             </StatisticData>
           </value>
         </entry>
