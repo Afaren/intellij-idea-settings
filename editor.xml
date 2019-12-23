@@ -1,11 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="5" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Monaco" />
