@@ -11,6 +11,7 @@
       <mapping pattern="empty_book_list" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="yml-template" type="PLAIN_TEXT" />
+      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
