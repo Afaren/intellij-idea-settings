@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern="BundleTypeRailScriptSample" type="JavaScript" />
       <mapping pattern="history_tag_list" type="PLAIN_TEXT" />
       <mapping pattern="GetDealerList" type="PLAIN_TEXT" />
@@ -13,6 +14,10 @@
       <mapping ext="puml]" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="yml-template" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
