@@ -1,8 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ng" type="HTML" />
       <mapping pattern="BundleTypeRailScriptSample" type="JavaScript" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="history_tag_list" type="PLAIN_TEXT" />
       <mapping pattern="GetDealerList" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
@@ -14,12 +14,10 @@
       <mapping ext="puml]" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="yml-template" type="PLAIN_TEXT" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
