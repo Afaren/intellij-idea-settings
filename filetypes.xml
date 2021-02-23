@@ -14,7 +14,6 @@
       <mapping pattern="tags_Tue" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="puml]" type="PLAIN_TEXT" />
-      <mapping ext="org" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="yml-template" type="PLAIN_TEXT" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
