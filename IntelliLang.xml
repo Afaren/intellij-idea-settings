@@ -1,0 +1,29 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>Connection (java.sql)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Connection"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>JdbcCursorItemReader.setSql (org.springframework.batch.item.database)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.JdbcCursorItemReader"))]]></place>
+    </injection>
+    <injection language="JPAQL" injector-id="java">
+      <display-name>Query.value (org.springframework.data.jpa.repository)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
+    </injection>
+    <injection language="XML" injector-id="java">
+      <display-name>XMLExportVisitor.visitDot (refactoring_guru.visitor.example.shapes)</display-name>
+      <place><![CDATA[psiMethod().withName("visitDot").withParameters("refactoring_guru.visitor.example.shapes.Dot").definedInClass("refactoring_guru.visitor.example.shapes.XMLExportVisitor")]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,12 +1,15 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="100,120" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+  </ScalaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
@@ -19,6 +22,7 @@
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -27,6 +31,11 @@
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
